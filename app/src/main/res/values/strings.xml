@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Number validator</string>
+    <string name="is_positive">Is positive</string>
+    <string name="enter_number">Enter number</string>
+    <string name="is_negative">Is Negative</string>
+    <string name="positive_result">True</string>
+    <string name="negative_result">False</string>
 </resources>
